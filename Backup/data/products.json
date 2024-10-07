@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "name": "Travel Luggage XL",
+      "description": "A large, durable travel luggage with a sleek design.",
+      "price": 199.99,
+      "category": "Large Luggage",
+      "quantity": 15,
+      "image": "images/luggage1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Compact Carry-On",
+      "description": "Compact carry-on luggage suitable for short trips.",
+      "price": 79.99,
+      "category": "Carry-On",
+      "quantity": 8,
+      "image": "images/luggage2.jpg"
+    }
+  ]
+  

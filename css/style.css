@@ -1,0 +1,17 @@
+.category {
+    padding-top: 80px;
+}
+
+h2 {
+    margin-left: 40px;
+}
+
+.product, header-store, header-category {
+	width: 100%;
+	height: 700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	margin-top: 150px;
+}
+

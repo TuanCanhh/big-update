@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f8f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 90%;
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #ffffff;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: #4CAF50; /* Màu xanh lá cây cho tiêu đề */
+    margin-bottom: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 15px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+th {
+    background-color: #4CAF50; /* Màu xanh lá cây cho header */
+    color: white; /* Màu chữ trắng cho header */
+}
+
+tr:nth-child(even) {
+    background-color: #f9f9f9; /* Màu nền cho các dòng chẵn */
+}
+
+tr:hover {
+    background-color: #f1f1f1; /* Màu nền cho dòng khi hover */
+}
+
+td {
+    color: #555; /* Màu chữ cho các ô dữ liệu */
+}
